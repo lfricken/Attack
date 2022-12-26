@@ -106,19 +106,25 @@ Tech:
 	Battleships automatically hit on attack and defense.
 	Bombers automatically hit on attack.
 	Artillery attack and bombard for 3.
-	Submarines can bombard.
+	Submarines can bombard land and sea spaces.
 
 
 
 
 End Game Scenarios
-	When a player gets near losing for the first time, a large random event occurs that benefits the losing players.
+	When a player gets near losing for the first time, a large random event occurs that benefits the losing players. This is probability based so it can't be gamed as easily (eg. 5/10ths way to victory, the benefit has a small chance of triggering).
 
 	Nuclear War - Your benefactor has launched its strategic nuclear arsenal in a first strike against its enemy! Select 4 territories. These will have all units and installations removed.
+
 	Coup d'etat - Pick 3 territories of enemy units. The owner of these units switches to you.
+
 	Monetary Infusion - Gain $120.
+
 	Advanced Tech - Your benefactor has granted you their latest warships. Gain 3 Super Battleships: 6,6,0,3. 3 hit points each. Bombard 2 away. At Foreign Aid Point(s) of your choice.
+
 	UN Involvement - The United Nations has decided to become involved. Gain 2 battleships, 2 destroyers, 2 Carriers, 2 Fighters, and 2 Tanks at the Foreign Aid Point(s) of your choice.
+
+	Air Campaign - For the rest of the game, 6 foreign bombers with 8 range can attack each of your turns. Their first move point is expended on any space touching the top of the board.
 
 
 
