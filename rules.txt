@@ -1,17 +1,88 @@
 
 
+Foreign Aid (get 1 card)
+Purchase (use money to purchase stuff)
+Move (units move to a location)
+Bombard (units can make ranged attacks)
+Combat (x2 combat phases)
+Remaining Move
+Production (purchased units appear)
 
 
-Combat lasts 1 battle round. There are ways to increase it.
+Combat lasts 2 battle rounds unless otherwise stated.
+Max 8 land/sea units per hex, aircraft aren't limited if they don't land.
+You cannot retreat from battle.
+
+Bombard - Shoot adjacent tiles during bombard phase. Does not consume movement.
+
+
+Units Attack, Defense, Cost, Move
+
+	Sea
+		Battleship 5,4,$10,2 - Bombard
+		destroyer 2,3,$6,2 - Holds 1 Land Unit
+		Aircraft Carrier 1,2,$8 holds 2 fighters, or 1 bomber
+		Nuclear Submarine 2,2,$8 - Blockade, cannot attack or be attacked by aircraft. Can submerse at a location. 3 turns later, surfaces at a location within 5 spaces. Cannot surface sooner.
+
+	Air
+		Fighter 3,3,9,5 - Can take an AA shot at 1 aircraft passing over itself per turn. Can cancel an enemy interdiction as its combat.
+		Bomber 4,2,11,7 - Cannot shoot aircraft. Can target Installations during combat phase. Can paradrop 2 infantry instead of shooting. Can bombard instead of attacking if it can .
+
+	Land
+		Tank 3,2,5 - 2 Moves
+		Inf 1,2,3
+		Art 2,2,6 - Bombard
+
+	Installations
+		SAM Site - $7 - Once per round, may fire at 1 aircraft that passes within 1 space 3a.
+		Naval Yard - $6 - Up to 2 naval units can be built on any adjacent water space.
+		Factory - $6 - Up to 3 land units can be built on this space.
+
+	Major City - Defender can choose to have 1 less battle round. +1 VP.
+	Minor City - Allows construction of Installations.
+	Foreign Aid Point - Sometimes units from outside the map appear here.
+
+	Naval HQ - Allows usage of Sea Foreign Aid cards.
+	Airforce HQ - Allows usage of Land Foreign Aid cards.
+	Army HQ - Allows usage of Air Foreign Aid cards.
 
 
 
 
+Foreign Aid Cards:
+
+	Strategic Initiative - Any Combat - +2 battle rounds for this battle.
+
+	Sea
+		Stealth Mission - Your Purchase - Relocate up to 3 submarines to any location(s).
+		Foreign Aid - Your Purchase - A Battleship appears at a random foreign aid point.
+		Foreign Aid - Your Purchase - Two destroyers appear at a random foreign aid point.
+		Foreign Aid - Your Purchase - A Destroyer with 1 tank appears at a foreign aid point of your choice.
+		Market - Your Purchase - This turn, Battleships -$2, Destroyers -$1.
+		Tactical Nuke - Foreign Aid - Destroy target enemy installation within 2 spaces of one of your submarines.
+		Cruise Missile - Any Time - Deal 1 damage to target unit adjacent to one of your submarines.
+
+	Land
+		Uprising - Your Turn - +4 Infantry on your team in any city that does not have enemy units, even enemy territory.
+		National Guard - Production - Your production for this turn can appear in any city you control.
+		Market - Your Purchase - This turn, Tanks and Artillery -$1.
+		Tactical Nuke - Foreign Aid - Destroy target enemy installation within 3 spaces of one of your artillery.
+		Precision Strike - Any Time - Deal 1 damage to target unit adjacent to one of your artillery.
+
+
+	Air
+		Midair Refueling - Any Time - +6 range to 4 aircraft this turn.
+		Black Ops - Any Combat - 3 aircraft of your choice appear in any battle this round. The battle must have 1 of your units initiate.
+		High Tech Outfit - Any Time - Until your next round, all your owned aircraft attack/defense +1.
+		Tactical Nuke - Foreign Aid - Destroy target enemy installation within 1 space of one of your bombers.
+		Smart Bomb - Any Time - Deal 1 damage to target unit adjacent to one of your bombers.
+		Secret Construction - Any Move - .
 
 
 
 
-
-
-
+Tech:
+	Battleships automatically hit on attack and defense.
+	Bombers automatically hit on attack.
+	Artillery attack and bombard for 3.
 
