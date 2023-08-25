@@ -1,0 +1,156 @@
+
+TODO:
+	How to avoid factories being OP but also need for enemy to not be able to capture easily.
+
+
+
+
+Objectives:
+	Complete the required number of agendas. You start the game with 7 and discard down to 5. Duplicate agendas do not award duplicate points.
+	You can make deals and put the trade goods in escrow.
+
+
+Goals:
+	Qualitative difference between units. Get rid of 4 units that are all slightly better a different things, and instead have 3 units that all behave pretty differently.
+
+	Avoid unit clumping where everyone piles all their units into one spot. Encourage spreading units around. Offers more interesting tactical situations for players to think on, as well as more interesting battles (when everyone clumps, the battles are all very similar, but with small numbers of units of varying types, it's harder to predict the outcome)
+
+Background:
+	This is a proxy war between two super powers who are off map. They can grant each team bonuses during certain situations.
+
+
+
+
+General Rules:
+	D6s - Has enough probability fidelity.
+	Max 8 land / 5 sea units per hex AND Combat lasts 2 battle rounds unless otherwise stated. Prevents rediculously large amounts of units dying in one round. Encourages taking territory rather than clumping, and allows for more interesting unit compositions during battle.
+	You cannot retreat from battle.
+	Bombard - Instead of participating in a battle, shoot adjacent tiles during bombard phase. Does not require movement points.
+
+
+Turn Phases:
+	Foreign Aid (get 1 card)
+	Purchase (use money to purchase stuff)
+	Move (units move to a location)
+	Bombard (units can make ranged attacks)
+	Combat (1 combat phase)
+	Remaining Move
+	Production (purchased units appear)
+
+
+
+
+
+Units Attack, Defense, Cost:
+	Defender can retreat to non hostile territory if they dont shoot.
+	Bombard ends a units turn. It can move before bombarding.
+
+	Sea - Can each carry 1 unit
+		Battleship 2,2 - 2r Bombard
+		Destroyer 2,2 - 2 move if no attack
+		Nuclear Submarine 2,2, 1r Bombard. Cannot bombard sea units. Cannot be hit by bombardment. Can consume move to submerge at which point it can't be attacked by anything at all. Surfacing does not require an operation point and it can immediately choose an attack action.
+
+	Air - (count as land units for unit counting purposes)
+		Jet Fighter 2,2 - 2 moves, persistent location, can retreat before combat from non aircraft (other aircraft can shoot, land cant)
+
+	Land
+		Tank 3,3 - 2 Move even with attack
+		Inf 1,2
+
+	Max 4 installations per location.
+	Installations (buildings you can buy, may only be placed on cities)
+		Factory - Allows production of 3 units per turn
+		Silo - 2r bombard
+		Turret - 2,2 - Can participate in sea battles and land battles as defense. cheap, good for shoring up defense. Only participate for defender. Only triggers defense from land units.
+
+
+216kj
+2kj per gram
+
+Constructions Cards - let you place units/buildings
+
+
+
+Foreign Aid Cards [TYPE, Name, Play Phase, Description]:
+
+	None
+		Strategic Initiative - When defender chooses not to retreat - +1 battle rounds for this battle.
+		Decoys - After another player targets one of your units - Use this card to negate it. 
+		Drone - One of your aircraft is shot down under any circumstances - You may pick a target in the space to be destroyed.
+
+	Sea
+		Stealth Mission - Your Purchase - Relocate up to 2 submarines to any location(s).
+		Foreign Aid - Your Purchase - A Battleship appears at a random foreign aid point.
+		Foreign Aid - Your Purchase - Two destroyers appear at a random foreign aid point.
+		Foreign Aid - Your Purchase - A Destroyer with 1 tank appears at a foreign aid point of your choice.
+		Market - Your Purchase - This turn, Battleships -$2, Destroyers -$1.
+		Tactical Nuke - Foreign Aid - Destroy target enemy installation within 2 spaces of one of your submarines.
+		Cruise Missile - Any Time - Deal 1 damage to target adjacent to one of your submarines.
+		Heavy Bombardment - Bombard - A battleship of your choice bombards a target 2 spaces away for double damage.
+
+	Land
+		Uprising - Your Turn - +4 Infantry on your team in any city that does not have enemy units, even enemy territory.
+		National Guard - Production - Your production for this turn can appear in any city you control.
+		Market - Your Purchase - This turn, Tanks and Artillery -$1.
+		Tactical Nuke - Foreign Aid - Destroy target enemy installation within 3 spaces of a Silo or Sub.
+		Precision Strike - Any Time - Destroy target within SILO range.
+		Fuel Depot - Your Move - Up to 5 tanks may move 3 this turn.
+
+
+	Air
+		Midair Refueling - Any Time - +1 range all aircraft.
+		Black Ops - Any Combat - 3 aircraft of your choice appear in any battle this round. The battle must have 1 of your units initiate.
+		High Tech Outfit - Any Time - Until your next round, all your owned aircraft attack/defense +1.
+		Tactical Nuke - Foreign Aid - Destroy target enemy installation within 1 space of one of your bombers.
+		Smart Bomb - Any Time - Deal 1 damage to target adjacent to one of your bombers.
+		Secret Construction - Any Move - .
+
+	Tech
+		Each unit +1 attack and defense
+		+1 range on silos
+		Subs can bombard sea and aircraft
+		Turrets
+
+
+7 x 4 = 28
+
+16
+12 from remaining 18
+
+discard to 5
+
+Agendas:
+	12x Control Convoy X (hand out 8)
+	12x Control City X (hand out 8)
+
+	3x More naval units than 2 other players
+	3x Silos on all 3 major islands.
+	3x Defensive Installations on all 3 major islands.
+	3x Control 6 minor islands
+	3x 3 resource locations (9 total)
+	3x 3 money locations (9 total)
+
+
+
+
+
+
+
+End Game Scenarios
+	On turn 10 you roll a 
+
+	Nuclear War - Your benefactor has launched its strategic nuclear arsenal in a first strike against its enemy! Select 4 territories. These will have all units and installations removed.
+
+	Coup d'etat - Pick 3 territories of enemy units. The owner of these units switches to you.
+
+	Monetary Infusion - Gain $120.
+
+	Advanced Tech - Your benefactor has granted you their latest warships. Gain 3 Super Battleships: 6,6,0,3. 3 hit points each. Bombard 2 away. At Foreign Aid Point(s) of your choice.
+
+	UN Involvement - The United Nations has decided to become involved. Gain 2 battleships, 2 destroyers, 2 Carriers, 2 Fighters, and 2 Tanks at the Foreign Aid Point(s) of your choice.
+
+	Air Campaign - For the rest of the game, 6 foreign bombers with 8 range can attack each of your turns. Their first move point is expended on any space touching the top of the board.
+
+
+
+

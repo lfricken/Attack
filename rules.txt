@@ -41,7 +41,7 @@ Units Attack, Defense, Cost:
 
 	Air - (count as land units for unit counting purposes)
 		Fighter 3,3,$9,5 - Can take an AA shot at 1 aircraft passing over itself per turn. Can cancel an enemy interdiction as its combat. Can relocate after enemy moves to aid in defense.
-		Bomber 4,1,$12,7 - Cannot shoot aircraft. Can target Installations during combat phase. Can paradrop 2 infantry instead of shooting. Can bombard instead of attacking if it can fly over the target.
+		Bomber $12,7 - Can paradrop 2 infantry instead of shooting. Can bombard  instead of attacking if it can fly over the target.
 
 	Land
 		Tank 3,2,5 - 2 Moves
